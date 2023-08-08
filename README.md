@@ -27,7 +27,6 @@ https://github.com/TanNguyen2812/Fall-Detection-Spatial-Temporal-Graph-Convoluti
 * Paper [Revisiting Skeleton-based Action Recognition](https://arxiv.org/abs/2104.13586)
 * Splits the video into T segments equal length.
 * Choose randomly one frame from each segment.
-![image](https://github.com/TanNguyen2812/Fall-Detection-Spatial-Temporal-Graph-Convolutional-Networks/assets/141646071/4750bd6a-9146-4f56-b274-15925bb47891)
 
 ![image](https://github.com/TanNguyen2812/Fall-Detection-Spatial-Temporal-Graph-Convolutional-Networks/assets/141646071/a93d179c-9b7e-494e-a22a-2a3db1d5d9a7)
 
